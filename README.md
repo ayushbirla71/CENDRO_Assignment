@@ -1,6 +1,6 @@
 # Project - CENDROL
 
-## Make sure to check Backend Repository :  
+## Make sure to check Master Repository :  
 
 ## Installation and Setup
 1. Clone the repository to your local machine.
@@ -12,12 +12,12 @@
 1. MongoDB: a NoSQL database used for storing and retrieving data
 2. Express.js: a web application framework for Node.js
 3. Node.js: a JavaScript runtime environment for running server-side code
-4. AWS S3: a Amazon Simple Storage Service for storing user profile photo
+4. AWS S3: an Amazon Simple Storage Service for storing user profile photo
 
 ## About
 
 # user create 
-# end point is : localhost:3000/register
+# end point is: localhost:3000/register
 
 Name : Ayush,
 Email : ayush1122@gmail.com,
@@ -92,7 +92,7 @@ Profile Image: file
 
 ```
 {
-    "message": "Deleted Successfuly"
+    "message": "Deleted successfully"
 }
 ```
 
