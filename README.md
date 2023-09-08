@@ -11,9 +11,8 @@
 ## Technologies Used
 1. MongoDB: a NoSQL database used for storing and retrieving data
 2. Express.js: a web application framework for Node.js
-3. React: a JavaScript library for building user interfaces
-4. Node.js: a JavaScript runtime environment for running server-side code
-5. AWS S3: a Amazon Simple Storage Service for storing user profile photo
+3. Node.js: a JavaScript runtime environment for running server-side code
+4. AWS S3: a Amazon Simple Storage Service for storing user profile photo
 
 ## About
 
