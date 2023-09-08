@@ -18,14 +18,18 @@
 
 # user create 
 # end point is: localhost:3000/register
-
+```
+Input Details
+{
 Name : Ayush,
 Email : ayush1122@gmail.com,
 Mobile :1122334455,
 Password :12345@,
 Profile Image: file
-
+}
 ```
+```
+Output
 {
     "massage": "Successful",
     "data": {
@@ -49,6 +53,7 @@ Email : ayush1122@gmail.com,
 Password :12345@
 
 ```
+Output
 {
     "status": true,
     "message": "User login successfull",
@@ -69,6 +74,7 @@ Password :112233@22,
 Profile Image: file
 
 ```
+Output
 {
     "message": "update Successfuly",
     "data": {
@@ -91,6 +97,7 @@ Profile Image: file
 
 
 ```
+Output
 {
     "message": "Deleted successfully"
 }
